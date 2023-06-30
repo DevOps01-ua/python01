@@ -2,6 +2,7 @@
 
 Your task is to develop a Python script that implements the Linux chpasswd simulation
 
+![img.png](img.png)
 **Requirements:**
 
 - The program should prompt the user to enter a username.
